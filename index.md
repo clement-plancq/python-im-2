@@ -6,9 +6,9 @@ Tous les supports sont sur [github](https://github.com/clement-plancq/python-im-
 
 Vous serez évalués de la façon suivante :
 
-* devoirs hebdomadaires : 30%
+* devoirs hebdomadaires : 20%
 * devoir en novembre  : 20%
-* projet : 50%
+* projet : 60%
 
 # Programme
 
