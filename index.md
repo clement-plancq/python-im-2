@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Python M2 IM — INaLCO
 
-You can use the [editor on GitHub](https://github.com/clement-plancq/python-im-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tous les supports sont sur [github](https://github.com/clement-plancq/python-im-2). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Évaluation
 
-### Markdown
+Vous serez évalués de la façon suivante :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* devoirs hebdomadaires : 30%
+* devoir en novembre  : 20%
+* projet : 50%
 
-```markdown
-Syntax highlighted code block
+# Programme
 
-# Header 1
-## Header 2
-### Header 3
+## 30 septembre 2020
 
-- Bulleted
-- List
+## 7 octobre 2020
 
-1. Numbered
-2. List
+## 14 octobre 2020
 
-**Bold** and _Italic_ and `Code` text
+## 21 octobre 2020
 
-[Link](url) and ![Image](src)
-```
+## 4 novembre 2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## ~~11 novembre 2020~~
 
-### Jekyll Themes
+## 18 novembre 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clement-plancq/python-im-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 25 novembre 2020
 
-### Support or Contact
+## 2 décembre 2020
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 9 décembre 2020
+
+## 16 décembre 2020
