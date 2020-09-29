@@ -10,9 +10,13 @@ Vous serez évalués de la façon suivante :
 * devoir en novembre  : 20%
 * projet : 60%
 
+Vous me remettez des *scripts*, pas des notebooks. Vous pouvez reprendre ce [gabarit](template.py).
+
 # Programme
 
 ## 30 septembre 2020
+ * [notebook](1-cours.ipynb)
+ * devoirs : triangle, heure, cartes et [ascii art](https://www.codingame.com/ide/puzzle/ascii-art)
 
 ## 7 octobre 2020
 
