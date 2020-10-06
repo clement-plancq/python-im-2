@@ -20,7 +20,7 @@ Vous me remettez des *scripts*, pas des notebooks. Vous pouvez reprendre ce [gab
 
 ## 7 octobre 2020
  * [notebook](2-cours.ipynb)
- * devoirs : ceux du notebook sur les listes Swadesh des langues austronésienne et [ascii art](https://www.codingame.com/ide/puzzle/horse-racing-duals)
+ * devoirs : ceux du notebook sur les listes Swadesh des langues austronésienne et [racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals)
 
 ## 14 octobre 2020
 
