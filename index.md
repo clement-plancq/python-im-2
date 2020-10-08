@@ -12,6 +12,8 @@ Vous serez évalués de la façon suivante :
 
 Vous me remettez des *scripts*, pas des notebooks. Vous pouvez reprendre ce [gabarit](template.py).
 
+Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-rendus.md)
+
 # Programme
 
 ## 30 septembre 2020
