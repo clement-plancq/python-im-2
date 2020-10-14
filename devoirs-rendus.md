@@ -6,16 +6,16 @@
 |:---:|:--------:|  :-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  A. |Fabienne  |✓        |✓        |         |         |         |         |
 |  B. |Arthur    |✓        |✓        |         |         |         |         |
-|  C. |Juliette  |✓        |         |         |         |         |         |
+|  C. |Juliette  |✓        |✓        |         |         |         |         |
 |  D. |Martin    |✓        |✓        |         |         |         |         |
 |  D. |Lara      |✓        |✓        |         |         |         |         |
 |  G. |Mei       |✓        |✓        |         |         |         |         |
-|  K. |Chinatsu  |✓        |         |         |         |         |         |
-|  L. |Jianying  |✓        |         |         |         |         |         |
+|  K. |Chinatsu  |✓        |✓        |         |         |         |         |
+|  L. |Jianying  |✓        |✓        |         |         |         |         |
 |  N. |Sheherazade|✓        |         |         |         |         |         |
 |  N. |Anna      |✓        |✓        |         |         |         |         |
 |  P. |Anaëlle   |✓        |✓        |         |         |         |         |
 |  P. |Solveig   |✓        |✓        |         |         |         |         |
 |  R. |Camille   |✓        |✓        |         |         |         |         |
-|  S. |Xinyi     |✓        |         |         |         |         |         |
+|  S. |Xinyi     |✓        |✓        |         |         |         |         |
 |  W. |Qi        |✓        |✓        |         |         |         |         |
