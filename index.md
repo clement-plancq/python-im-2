@@ -28,15 +28,16 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  * [notebook](3-cours.ipynb)
  * devoirs : les anacycliques et [mime type](https://www.codingame.com/training/easy/mime-type)
 
-## 21 octobre 2020
+## 21 octobre 2020 : séance reportée
 
 ## 4 novembre 2020
 
 ## ~~11 novembre 2020~~
 
-## 18 novembre 2020
+## 18 novembre 2020 : attention 9h-12h !
+ * Évaluation 
 
-## 25 novembre 2020
+## 25 novembre 2020 : en distanciel pour tout le monde
 
 ## 2 décembre 2020
 
