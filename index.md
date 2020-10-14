@@ -26,7 +26,7 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 
 ## 14 octobre 2020
  * [notebook](3-cours.ipynb)
- * devoirs : les anacycliques et [mime type](https://www.codingame.com/training/easy/mime-type)
+ * devoirs : les préfixes (voir notebook) et [mime type](https://www.codingame.com/training/easy/mime-type)
 
 ## 21 octobre 2020 : séance reportée
 
