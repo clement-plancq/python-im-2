@@ -25,6 +25,8 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  * devoirs : ceux du notebook sur les listes Swadesh des langues austronésienne et [racing duals](https://www.codingame.com/ide/puzzle/horse-racing-duals)
 
 ## 14 octobre 2020
+ * [notebook](3-cours.ipynb)
+ * devoirs : les anacycliques et [mime type](https://www.codingame.com/training/easy/mime-type)
 
 ## 21 octobre 2020
 
