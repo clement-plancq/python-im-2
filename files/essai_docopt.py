@@ -2,7 +2,7 @@
 
 """essai_docopt
 Usage:
-  docopt.py [options] <input>
+  essai_docopt.py [options] <input>
 
 Options:
   -h --help         show this
