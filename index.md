@@ -30,6 +30,8 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 
 ## 21 octobre 2020 : séance reportée
 
+## 3 novembre 2020
+
 ## 4 novembre 2020
 
 ## ~~11 novembre 2020~~
