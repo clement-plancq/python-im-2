@@ -30,18 +30,17 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 
 ## 21 octobre 2020 : séance reportée
 
-## 3 novembre 2020 : POO
+## 3 novembre 2020 et 4 novembre : POO
  * [notebook cours](4-cours-poo.ipynb)
  * [notebook trie](4-cours-trie.ipynb)
- 
-## 4 novembre 2020
+ * devoirs : n-gram (voir notebook cours) et [Shadows of the Knight - Episode 1 (niveau moyen)](https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1)
 
 ## ~~11 novembre 2020~~
 
 ## 18 novembre 2020 : attention 9h-12h !
  * Évaluation 
 
-## 25 novembre 2020 : en distanciel pour tout le monde
+## 25 novembre 2020
 
 ## 2 décembre 2020
 
