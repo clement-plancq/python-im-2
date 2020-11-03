@@ -37,6 +37,7 @@ def main():
     words = []
     with open(args.file) as tt:
         for line in tt:
+            line = line.rstrip()
             items = line.split('\t')
             words.append(Word(items[0], items[2], items[1]))
     
