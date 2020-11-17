@@ -38,7 +38,8 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 ## ~~11 novembre 2020~~
 
 ## 18 novembre 2020 : attention 9h-12h !
- * Évaluation 
+ * [Évaluation](evaluation)
+ * [notebook](6-cours-modules.ipynb) : à étudier pour la semaine prochaine
 
 ## 25 novembre 2020
 
