@@ -22,7 +22,7 @@ Votre script ne devra lire qu'*une seule fois* chacun de ces deux fichiers de do
 1. Combien de titres sont listés dans ce fichier ? (1)
 2. Listez les « types de documents » classés par ordre décroissant de prêts. Indiquez le type et le nombre de prêts cumulés dans votre réponse. (4)
 3. Indiquez le nombre de titres classés dans un type de document "jeunesse" et le nombre de titres non jeunesse. (4)
-4. Affichez les 10 titres les plus empruntés en 2007. (2)
+4. Affichez les 10 titres les plus empruntés en 2017. (2)
 
 ### Fichier conllu
 <small>[doc format CoNLL-U](https://universaldependencies.org/format.html)</small>
