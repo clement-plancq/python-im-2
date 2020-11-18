@@ -11,7 +11,7 @@
 
 Vous travaillerez sur deux fichiers :
   - [les-titres-les-plus-pretes.csv](les-titres-les-plus-pretes.csv) (vient de [https://opendata.paris.fr/explore/dataset/les-titres-les-plus-pretes/information/](https://opendata.paris.fr/explore/dataset/les-titres-les-plus-pretes/information/))
-  - [fr_sequoia-ud-dev.conllu](../data/fr_sequoia-ud-dev.conllu) (ou pourquoi pas un fichier conllu d'une autre langue si vous préferez).
+  - [fr_sequoia-ud-dev.conllu](https://raw.githubusercontent.com/UniversalDependencies/UD_French-Sequoia/master/fr_sequoia-ud-dev.conllu) (ou pourquoi pas un fichier conllu d'une autre langue si vous préferez).
 
 Votre script ne devra lire qu'*une seule fois* chacun de ces deux fichiers de données.
 
