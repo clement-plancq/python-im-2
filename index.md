@@ -44,7 +44,7 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 ## 25 novembre 2020
  * [notebook modules](6-cours-modules.ipynb)
  * [notebook numpy](6-cours-numpy.ipynb)
- * devoirs : 
+ * devoirs : tf.idf avec array numpy (sinon reprenez vos ngrams avec array numpy) et [Telephone numbers](https://www.codingame.com/training/medium/telephone-numbers)
 
 ## 2 décembre 2020
 
