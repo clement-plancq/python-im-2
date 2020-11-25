@@ -42,6 +42,9 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  * devoirs : [notebook](6-cours-modules.ipynb) à étudier pour la semaine prochaine et [Scrabble](https://www.codingame.com/training/medium/scrabble)
 
 ## 25 novembre 2020
+ * [notebook modules](6-cours-modules.ipynb)
+ * [notebook numpy](6-cours-numpy.ipynb)
+ * devoirs : 
 
 ## 2 décembre 2020
 
