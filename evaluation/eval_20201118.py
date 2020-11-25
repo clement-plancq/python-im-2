@@ -64,7 +64,7 @@ def conllu(input_file):
                 if it == "_":  # cas particulier des articles contractés (head = _)
                     print(f"\t{sent.id} {it} ({','.join(heads[it])})")
                 else:
-                    form = sent.words[int(it) - 1]
+                    form = next(w.form for w in sent.words if w.id == it)
                     print(f"\t{sent.id} {it} {form} ({','.join(heads[it])})")
 
 
