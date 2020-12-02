@@ -47,7 +47,9 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  * devoirs : tf.idf avec array numpy (sinon reprenez vos ngrams avec array numpy) et [Telephone numbers](https://www.codingame.com/training/medium/telephone-numbers)
 
 ## 2 décembre 2020
-
+ * [notebook itérateurs, générateurs, décorateurs](7-iterateur-generateur-decorateur.ipynb)
+ * devoirs : finir le bot si pas fini et [Des nains sur des épaules de géants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
+ 
 ## 9 décembre 2020
 
 ## 16 décembre 2020
