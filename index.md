@@ -54,6 +54,7 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  
 ## 9 décembre 2020
  * [notebook parseurs html et xml](8-parseurs.ipynb)
+ * devoir optionnel : [Identation CGX](https://www.codingame.com/training/hard/cgx-formatter)
 
 ## 16 décembre 2020
 
