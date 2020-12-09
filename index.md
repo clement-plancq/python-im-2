@@ -51,6 +51,7 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
  * devoirs : finir le bot si pas fini et [Des nains sur des épaules de géants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants)
  
 ## 9 décembre 2020
+ * [notebook parseurs html et xml](8-parseurs.ipynb)
 
 ## 16 décembre 2020
 
