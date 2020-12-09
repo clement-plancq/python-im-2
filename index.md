@@ -10,6 +10,8 @@ Vous serez évalués de la façon suivante :
 * devoir en novembre  : 20%
 * projet : 60%
 
+[Précisions sur le projet](projets.md)
+
 Vous me remettez des *scripts*, pas des notebooks. Vous pouvez reprendre ce [gabarit](template.py).
 
 Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-rendus.md)
