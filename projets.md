@@ -25,7 +25,7 @@ Proposez un bot pour le serveur Plurital qui puisse offrir des services intéres
 
 ## Consignes
 
-- Projet à rendre le 10 janvier *au plus tard*
+- Projet à rendre le 8 janvier *au plus tard*
 - Seule ou à deux 
 
 Le rendu devra comporter :
