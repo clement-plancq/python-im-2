@@ -59,4 +59,5 @@ Vous pouvez vérifier que j'ai bien reçu vos devoirs sur [cette page](devoirs-r
 ## 16 décembre 2020
  * [notebook classification avec scikit-learn](9-classification-scikitlearn.ipynb)
 
-## 7 janvier 2021
+## 5 janvier 2021
+ * Séance sur les projets
